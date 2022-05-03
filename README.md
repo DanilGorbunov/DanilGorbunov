@@ -1,7 +1,6 @@
-<img src="https://user-images.githubusercontent.com/35400605/166424049-95c2e32e-b17c-4762-9551-338eae8c1b68.png6" alt="MasterHead" data-canonical-src="https://user-images.githubusercontent.com/35400605/166424049-95c2e32e-b17c-4762-9551-338eae8c1b68.png" style="max-width: 100%;">
 
 
-![itsmylife]("https://user-images.githubusercontent.com/35400605/166424049-95c2e32e-b17c-4762-9551-338eae8c1b68.png" style="max-width: 100%  )
+![itsmylife](https://user-images.githubusercontent.com/35400605/166424049-95c2e32e-b17c-4762-9551-338eae8c1b68.png)
 
 
 ### Hi there 👋
