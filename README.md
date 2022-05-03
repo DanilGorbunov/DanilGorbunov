@@ -1,5 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-![mypin](https://user-images.githubusercontent.com/35400605/166439391-3ec65c69-d853-4455-87d4-e4ed8c9fb0ab.png)
+
+![234](https://user-images.githubusercontent.com/35400605/166439740-24b4b71c-7e2a-4e7a-a764-2b813f4d98b0.png)
 
 
 <h1 align="center">Hi 👋, I'm Danil Gorbunov, </h1>
