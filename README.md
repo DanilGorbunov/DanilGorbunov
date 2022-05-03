@@ -3,6 +3,10 @@
 <h3 align="center">I like mobile developer UI and code, and I'm from Ukraine, but now in Slovakia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16111929-Balance-Mobile-App-Design-for-Fitness?utm_source=Clipboard_Shot&utm_campaign=outcrowd&utm_content=Balance%20-%20Mobile%20App%20Design%20for%20Fitness&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=outcrowd&utm_content=Balance%20-%20Mobile%20App%20Design%20for%20Fitness&utm_medium=Social_Share">
+
+
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
