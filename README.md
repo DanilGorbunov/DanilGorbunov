@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **danilgorbunov0@gmail.com**
+- 📫 How to reach me **danilgorbunov@gmail.com**
 
 - ⚡ Fun fact **There is a war in my country now, but I want to be useful, learn and continue to live. I'm a very happy person**
 
