@@ -1,8 +1,6 @@
 ![itsmylife](https://user-images.githubusercontent.com/35400605/166424049-95c2e32e-b17c-4762-9551-338eae8c1b68.png)
 
 
-### Hi there 👋
-
 <!--![Uploading itsmylife.png…]()
 
 **DanilGorbunov/DanilGorbunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
