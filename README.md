@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **There is a war in my country now, but I want to be useful, learn and continue to live. I'm a very happy person**
 
+-**https://www.linkedin.com/in/danilgorbunov/**
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
