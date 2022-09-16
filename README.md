@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **danilgorbunov@gmail.com**
 
-- ⚡ Fun fact. **There is a war in my country now, but I want to be useful, learn and continue to live. My interests: wife and two adult princesses, Internet technologies, TV show Silicon Valley, Metavercse as part of our future, fantastic and fantasy film, audio books, english, travelling, Paris. I also have a black belt in Hapkido and a black cat. And I'm also a very positive person**
+- ⚡ Fun fact. **There is a war in my country now, but I want to be useful, learn and continue to live. My interests: wife and two adult children, Internet technologies, TV show Silicon Valley, Metaverse as part of our future, fantastic and fantasy film, audio books, english, travelling, Paris. I also have a black belt in Hapkido and a black cat. And I'm also a very positive person...time to time)) **
 
 -**https://www.linkedin.com/in/danilgorbunov/**
 
