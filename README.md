@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Danil Gorbunov, </h1>
-<h3 align="center">I have always been a project manager with little development experience, but lately I have been working as a Flutter developer. And I'm from Ukraine, but now in Slovakia))</h3>
+<h3 align="center">I have always been a project manager with development experience, but lately I have been working as a Flutter developer. And I'm from Ukraine, but now in Slovakia))</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Flutter**
